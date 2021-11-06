@@ -1,6 +1,6 @@
 maxWidth = 5
 
-for i in range(maxWidth*2):
+for i in range(1, maxWidth*2):
     if i <= maxWidth:
         print(i*"*")
     else:
