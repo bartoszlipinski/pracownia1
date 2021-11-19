@@ -7,3 +7,4 @@ f.close()
 
 f = open('15.txt', 'r')
 print(f.read())
+f.close()
